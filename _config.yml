@@ -6,6 +6,7 @@ description: "Overdrive Wiki是一个社区驱动、学术取向的开放百科�
 url: "https://qxdfimd.github.io"
 baseurl: "/overdrive-wiki-test"
 favicon_path: /assets/favicon.ico
+logo: /assets/images/logo.jpg
 github_username: "OverdriveLab"
 twitter_username: "Qxdfimd_"
 

@@ -42,6 +42,7 @@ syntax_highlighter_style: colorful
 # 文章目录（TOC）配置
 # =========================
 toc:
+  enabled: true
   h_min: 1
   h_max: 3
 
@@ -86,7 +87,6 @@ defaults:
       type: "drugs"
     values:
       layout: "post"
-      toc: true
 
   # 所有 effects 集合默认布局
   - scope:
@@ -94,7 +94,6 @@ defaults:
       type: "effects"
     values:
       layout: "post"
-      toc: true
 
   # 所有 tools 集合默认布局
   - scope:
@@ -102,4 +101,3 @@ defaults:
       type: "tools"
     values:
       layout: "post"
-      toc: true

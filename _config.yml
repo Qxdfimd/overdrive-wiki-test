@@ -74,14 +74,11 @@ ordered_collections:
 # 默认布局配置
 # =========================
 defaults:
-  # 所有 drugs 集合默认布局
   - scope:
       path: ""
       type: "drugs"
     values:
       layout: "post"
-
-  # 所有 effects 集合默认布局
   - scope:
       path: ""
       type: "effects"

@@ -1,6 +1,6 @@
 ---
 title: 工具
-layout: home
+layout: post
 ---
 
 ## 索引

@@ -74,13 +74,6 @@ ordered_collections:
 # 默认布局配置
 # =========================
 defaults:
-  # 首页单独布局
-  - scope:
-      path: "index.md"
-      type: "pages"
-    values:
-      layout: "home"
-
   # 所有 drugs 集合默认布局
   - scope:
       path: ""
@@ -92,12 +85,5 @@ defaults:
   - scope:
       path: ""
       type: "effects"
-    values:
-      layout: "post"
-
-  # 所有 tools 集合默认布局
-  - scope:
-      path: ""
-      type: "tools"
     values:
       layout: "post"

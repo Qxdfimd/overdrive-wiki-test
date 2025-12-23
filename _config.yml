@@ -60,10 +60,14 @@ collections:
   effects:
     output: true
     permalink: /effects/:title/
+  tools:
+    output: true
+    permalink: /tools/:title/
 
 ordered_collections:
   - drugs
   - effects
+  - tools
 
 # =========================
 # 默认布局配置
@@ -88,6 +92,14 @@ defaults:
   - scope:
       path: ""
       type: "effects"
+    values:
+      layout: "post"
+      toc: true
+
+  # 所有 tools 集合默认布局
+  - scope:
+      path: ""
+      type: "tools"
     values:
       layout: "post"
       toc: true

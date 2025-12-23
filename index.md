@@ -8,7 +8,6 @@ layout: home
 本项目定位为一个**学术取向的开放知识库**，面向研究者、医务人员及对相关议题感兴趣的公众，提供**结构化、可持续维护**的参考资料。
 
 **[Telegram群组](https://t.me/OverdriveLab)**
-[Telegram群组](https://t.me/OverdriveLab)
 
 ## 免责声明（Disclaimer）
 

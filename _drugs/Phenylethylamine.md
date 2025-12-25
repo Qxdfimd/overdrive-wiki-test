@@ -12,7 +12,9 @@ title: 苯乙胺（Phenylethylamine）
 - 主要代谢酶：MAO-B（为主），MAO-A（次要）  
 
 ## 用法与剂量（口服强度）
-Qxd Recommend 800mg
+
+**Recommend 800mg**
+
 - 轻度：200–400 mg  
 - 中度：400–800 mg  
 - 高度：800–1000 mg  
